@@ -1,55 +1,59 @@
-# Business Analysis Portfolio – Adidas Sales Dashboard  
+# 📊 Business Analyst Portfolio – Harshal Deshpande
 
-## 📌 Project Overview  
-This project analyzes Adidas sales data for 2020 to uncover key business insights.  
-The objective is to demonstrate Business Analysis skills such as data cleaning, SQL querying, KPI design, and building an interactive Power BI dashboard.  
-
-## 🎯 Objectives  
-- Understand sales trends and performance drivers  
-- Identify top-performing regions, states, and sales channels  
-- Analyze profitability at product and category levels  
-- Provide actionable insights for decision-making  
-
-## 📂 Dataset  
-- **Source:** Adidas Sales Dataset (2020)  
-- **Columns Included:**  
-  - Retailer, Retailer ID, Invoice Date  
-  - Region, State, City  
-  - Product, Category, Gender  
-  - Price per Unit, Units Sold, Total Sales  
-  - Operating Profit, Operating Margin, Sales Method  
-
-## 🛠️ Tools & Skills Used  
-- **SQL** – Data cleaning, querying, and aggregations  
-- **Excel** – Initial exploration and formatting  
-- **Power BI** – Dashboard creation, DAX measures, and data visualization  
-- **Business Analysis** – KPI design, requirement gathering, and storytelling  
-
-## 📊 Dashboard Pages  
-1. **Executive Summary** – KPIs (Revenue, Units, Profit, Margin) + Sales Trends  
-2. **Sales by Region & Channel** – Regional performance, methods of sale  
-3. **Product Insights** – Category, Gender, Top/Bottom Products  
-4. **Profitability Analysis** – Operating Profit, Profit Margin, Profit per Unit  
-
-## 📈 Key Insights  
-- Online sales contributed the highest revenue share compared to in-store.  
-- Western region outperformed others in both revenue and profit.  
-- Footwear category had the highest revenue, while Apparel had higher margins.  
-- Profitability varied significantly across sales methods.  
-
-## 🚀 How to Use  
-1. Clone the repository  
-2. Open the Power BI file (`Adidas_Sales_Dashboard.pbix`)  
-3. Interact with filters, slicers, and visuals to explore insights  
-
-## 📎 Files in Repository  
-- `adidas_sales.csv` – Dataset  
-- `SQL_Queries.sql` – Cleaning and analysis queries  
-- `Adidas_Sales_Dashboard.pbix` – Power BI Dashboard  
-- `README.md` – Project documentation  
-
-## 👤 About Me  
-I’m **Harshal Deshpande**, a Computer Science Graduate & Business Analysis Enthusiast.  
-Skilled in **SQL, Excel, Power BI, and Business Analysis techniques**, I create data-driven dashboards and insights for decision-making.  
+Welcome to my **Business Analyst Portfolio Repository**!  
+This repo contains my end-to-end Business Analysis projects, showcasing skills in **requirements gathering, SQL, data analysis, and dashboard development**.  
 
 ---
+
+## 👤 About Me
+I am an aspiring **Business Analyst**, skilled in:
+- Business Documentation (**BRD, FRD, User Stories**)  
+- Data Analysis with **SQL & Excel**  
+- Dashboarding with **Power BI / Tableau**  
+- Agile & Stakeholder Communication  
+
+This portfolio highlights my ability to **translate business needs into data-driven insights and solutions**.  
+
+---
+
+## 📂 Projects Included
+### 1. 🏷️ Adidas Sales Analysis
+- **Dataset:** Adidas Sales dataset (retail + product performance)  
+- **SQL:** Data cleaning & exploration queries  
+- **Power BI:** Interactive sales dashboard with KPIs & trends  
+- **Documentation:** BRD + FRD created  
+- 📁 [View Project Folder](./Adidas_Sales_Dashboard)  
+
+
+
+---
+
+## 🛠️ Skills & Tools Demonstrated
+- **SQL** → Data cleaning, joins, aggregations, KPI calculations  
+- **Power BI / Tableau** → Interactive dashboards & storytelling  
+- **Excel** → Data validation, pivots, KPI analysis  
+- **Business Analysis** → BRD, FRD, requirement gathering  
+- **Agile Tools** → User stories, backlog refinement  
+
+---
+
+## 🚀 How This Portfolio Helps Recruiters
+This repository demonstrates that I can:
+1. **Understand business problems** and capture requirements  
+2. **Work with raw data** (SQL, Excel)  
+3. **Translate data into insights** (dashboards & reports)  
+4. **Document business & functional needs** professionally  
+5. **Bridge business & technical teams** effectively  
+
+---
+
+## 📫 Contact
+- **Name:** Harshal Deshpande  
+- **LinkedIn:** www.linkedin.com/in/harshal-deshpande-830264369 
+- **GitHub:**  https://github.com/harshaldesh
+- **Email:** hudeshpande153@gmail.com 
+
+---
+
+✨ Thank you for visiting my portfolio!  
+Feel free to explore the projects and connect with me.  
