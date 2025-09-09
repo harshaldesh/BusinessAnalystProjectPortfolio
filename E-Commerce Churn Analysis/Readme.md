@@ -1,56 +1,37 @@
-🛒 E-Commerce Customer Churn & Insights Dashboard
-📖 Overview
+# 🛒 Ecommerce Customer Churn Analysis – Business Analyst Portfolio Project  
 
-This project analyzes customer churn, lifetime value, and behavioral patterns for an e-commerce business using Power BI.
-The dashboard provides actionable insights into retention strategies, high-value customers, and churn risk segments.
+## 📖 Project Overview  
+This project demonstrates my **Business Analysis and Data Visualization skills** applied to **customer churn analysis**.  
 
-🛠 Tools & Technologies
+It covers the full workflow:  
+- Understanding and documenting requirements (**BRD & FRD**)  
+- Cleaning and preparing raw data with **SQL**  
+- Building interactive dashboards in **Power BI**  
+- Delivering insights to **reduce churn and improve retention**  
 
-Power BI → Dashboard creation & visualization
+The focus is on an **ecommerce dataset**, analyzing customer churn patterns, segmentation, and retention strategies.  
 
-DAX (Data Analysis Expressions) → Custom measures & KPIs
+---
 
-SQL → Data preparation & queries
+## 🎯 Objectives  
+- Calculate and monitor **customer churn rate**  
+- Identify **demographics and segments** with high churn  
+- Analyze **lifetime value (CLV)** and purchase behavior of customers  
+- Discover **preferred categories** among churned customers  
+- Provide **recommendations for retention strategies**  
 
-Excel/CSV → Raw dataset
+---
 
-📊 Dashboard Pages
-📌 Page 1: Executive Summary
-
-Key high-level KPIs:
-
-Total Revenue, Total Orders, Average CLV
-
-Total Customers & Churned Customers
-
-Churn Rate (%)
-
-Visuals:
-
-Churn by Country 🌍
-
-Revenue Trend by Month 📈
-
-Subscription Status Distribution 🟢🟡🔴
-
-📌 Page 2: Detailed Insights
-
-Deeper breakdown of churn drivers:
-
-Churn by Age Group (Column Chart)
-
-Top 10 Customers by CLV (Table with Orders & Status)
-
-Customer Segmentation (Donut Chart by CLV Tier)
-
-Preferred Categories of Cancelled Customers (Bar Chart)
-
-📈 Key Insights
-
-High churn risk in younger age groups (20–30).
-
-Clothing & Electronics categories show the most cancellations.
-
-Majority of churn comes from low-CLV customers, but some high-CLV churners exist → big business impact.
-
-Customers with higher purchase frequency are less likely to churn.
+## 📂 Project Structure  
+```plaintext
+📦 ecommerce-churn-analysis
+ ┣ 📂 data
+ ┃ ┗ ecommerce_data.csv
+ ┣ 📂 documents
+ ┃ ┣ BRD_Ecommerce_Churn.docx
+ ┃ ┗ FRD_Ecommerce_Churn.docx
+ ┣ 📂 images
+ ┃ ┣ dashboard_page1.png
+ ┃ ┗ dashboard_page2.png
+ ┣ Ecommerce_Churn.pbix
+ ┣ README.md
