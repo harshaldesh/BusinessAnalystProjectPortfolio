@@ -23,7 +23,7 @@ This portfolio highlights my ability to translate **business needs into data-dri
 - **SQL**: Data cleaning & exploration queries  
 - **Power BI**: Interactive sales dashboard with KPIs & trends  
 - **Documentation**: BRD + FRD created  
-📁 [View Project Folder](./Adidas-Sales-Analysis)  
+📁 [View Project Folder](https://github.com/harshaldesh/BusinessAnalystProjectPortfolio/tree/main/Adidas%20Sales%20Analysis)  
 
 ---
 
@@ -32,7 +32,7 @@ This portfolio highlights my ability to translate **business needs into data-dri
 - **SQL**: Customer segmentation, churn probability queries  
 - **Power BI**: Churn dashboard highlighting retention drivers  
 - **Documentation**: User Stories + Business Requirement Document  
-📁 [View Project Folder](./Ecommerce-Churn-Analysis)  
+📁 [View Project Folder](https://github.com/harshaldesh/BusinessAnalystProjectPortfolio/tree/main/E-Commerce%20Churn%20Analysis)  
 
 ---
 
@@ -43,7 +43,7 @@ This portfolio highlights my ability to translate **business needs into data-dri
   - Risk Segmentation & Drivers (income bands, home ownership, loan grades)  
 - **DAX**: Default rate calculations, income band segmentation, conditional formatting in matrix  
 - **Insights**: Identified high-risk groups (low income, high loan grade, medical & debt consolidation loans)  
-📁 [View Project Folder](./Credit-Risk-Analysis)  
+📁 [View Project Folder](https://github.com/harshaldesh/BusinessAnalystProjectPortfolio/tree/main/Credit%20Risk%20Analysis)  
 
 ---
 
